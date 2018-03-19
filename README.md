@@ -14,11 +14,17 @@ Res/layout/activity_main.xml
 add This code
 
  <lk.droidlanka.sanoj.parallaxsample.ParallaxView
-            android:id="@+id/parallax_view4"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:layout_gravity="center"
-            android:background="@drawable/backk" />
+
+            android:id="@+id/parallax_view4"
+
+            android:layout_width="match_parent"
+
+            android:layout_height="match_parent"
+
+            android:layout_gravity="center"
+
+            android:background="@drawable/backk" />
+
 
 
 
