@@ -1,52 +1,33 @@
-# ParallaxSample
-Simple Parallax Image View Sample
+<h1 align="center">Welcome to Parallax Lite 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0 (beta)-blue.svg?cacheSeconds=2592000" />
+  <a href="https://youtu.be/QdbOTwxSIu0" target="_blank">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+  </a>
+  <a href="https://twitter.com/Sanojprabath" target="_blank">
+    <img alt="Twitter: Sanojprabath" src="https://img.shields.io/twitter/follow/Sanojprabath.svg?style=social" />
+  </a>
+</p>
 
+> This app is designed to make it possible for multiple Facebook accounts to use the same smartphone.
 
-Download More Layout
+### 🏠 [Homepage](https://www.facebook.com/sanoj.jayathilaka1)
 
-https://www.dropbox.com/sh/ade5mbz1xpc2rqu/-LGtTD139b
+### ✨ [Demo](https://youtu.be/QdbOTwxSIu0)
 
+## Author
 
-How to Add extra ParallaxView 
+👤 **sanoj  prabath  **
 
-Res/layout/activity_main.xml
+* Twitter: [@Sanojprabath](https://twitter.com/Sanojprabath)
+* Github: [@00sanoj000](https://github.com/00sanoj000)
 
-add This code
+## 🤝 Contributing
 
- <lk.droidlanka.sanoj.parallaxsample.ParallaxView
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/00sanoj00/parallax_lite/issues). 
 
-            android:id="@+id/parallax_view4"
+## Show your support
 
-            android:layout_width="match_parent"
+Give a ⭐️ if this project helped you!
 
-            android:layout_height="match_parent"
-
-            android:layout_gravity="center"
-
-            android:background="@drawable/backk" />
-
-
-
-
-MainActivity.java 
-
-private ParallaxView mParallaxView4;
-
-mParallaxView3 = (ParallaxView) findViewById(R.id.parallax_view_4);
-
-private void initParallaxViews(){
-        mParallaxView4.init();
-        mParallaxView4.setMinimumMovedPixelsToUpdate(ParallaxView.DEFAULT_MIN_MOVED_PIXELS * 1);
-        mParallaxView.4setMovementMultiplier(ParallaxView.DEFAULT_MOVEMENT_MULTIPLIER * 1);
-        mParallaxView4.registerSensorListener(ParallaxView.SensorDelay.FASTEST);
-  
-    }
-
-
-
-Change Move MOVED PIXELS
-
-mParallaxView4.setMinimumMovedPixelsToUpdate(ParallaxView.DEFAULT_MIN_MOVED_PIXELS * 1);
-mParallaxView.4setMovementMultiplier(ParallaxView.DEFAULT_MOVEMENT_MULTIPLIER * 1);
-
-
+***
