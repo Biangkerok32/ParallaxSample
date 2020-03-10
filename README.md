@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Parallax Lite 👋</h1>
+<h1 align="center">Welcome to Parallax👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0 (beta)-blue.svg?cacheSeconds=2592000" />
   <a href="https://youtu.be/QdbOTwxSIu0" target="_blank">
@@ -13,7 +13,6 @@
 
 ### 🏠 [Homepage](https://www.facebook.com/sanoj.jayathilaka1)
 
-### ✨ [Demo](https://youtu.be/QdbOTwxSIu0)
 
 ## Author
 
